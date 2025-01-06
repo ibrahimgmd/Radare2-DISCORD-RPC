@@ -1,0 +1,26 @@
+{
+  "name": "radre2-rpc",
+  "version": "1.0.0",
+  "description": "radre2 rpc",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "discord",
+    "rpc",
+    "radre2"
+  ],
+  "author": "ibrahim",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^5.4.1",
+    "child_process": "^1.0.2",
+    "discord-rpc": "^4.0.1",
+    "fs": "^0.0.1-security",
+    "r2pipe": "^2.8.6",
+    "readline-sync": "^1.4.10",
+    "redline": "^1.0.1"
+  }
+}
