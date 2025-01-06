@@ -11,7 +11,7 @@ Works on non graphical Radare2 version.
 Go to Discord devolper portal website and make an app there
 (https://github.com/user-attachments/assets/914eae2b-cf53-4870-b923-bd94f1fed042)
 and replaace it it with your client id:
-```const clientId = "example"; // use your actual discord client id```
+```JavaScript const clientId = "example"; // use your actual discord client id```
 ## Run
 Double-clcik on the bat ile in the project
 
