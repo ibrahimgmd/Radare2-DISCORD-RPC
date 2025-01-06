@@ -5,7 +5,9 @@ Works on non graphical Radare2 version.
 - Node.js
 ## Set up
 **Clone the repository:**
-```https://github.com/ibrahimgmd/Radare2-DISCORD-RPC.git```
+```
+https://github.com/ibrahimgmd/Radare2-DISCORD-RPC.git
+```
 **Install dependencies:**
 ```npm install```
 Go to Discord devolper portal website and make an app there
