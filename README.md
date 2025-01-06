@@ -24,7 +24,7 @@ npm install
 
 3. Go to Discord devolper portal website and make an app there: [Discord Devolper Portal](https://github.com/user-attachments/assets/914eae2b-cf53-4870-b923-bd94f1fed042)
 
-4. replace it it with your client id:
+4. replace the id with your actuall client id:
 ```
 const clientId = "example"; // use your actual discord client id
 ```
