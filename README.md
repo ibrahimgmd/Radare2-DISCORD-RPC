@@ -22,7 +22,7 @@ git clone https://github.com/ibrahimgmd/Radare2-DISCORD-RPC.git
 npm install
 ```
 
-3. Go to Discord devolper portal website and make an app there: [Discord Devolper Portal](https://github.com/user-attachments/assets/914eae2b-cf53-4870-b923-bd94f1fed042)
+3. Go to Discord devolper portal website and make an app there: [Discord Devolper Portal](https://discord.com/developers/applications)
 
 4. replace the id with your actuall client id:
 ```
